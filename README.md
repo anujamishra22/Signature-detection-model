@@ -1,4 +1,4 @@
-# Signature-detection-model
+# Signature Detection Model
 This project aims to detect signatures in images using YOLOv5. It involves the following steps:
 1. Data Annotation
 First, annotate your images using a tool like LabelImg. This will create XML files containing bounding box coordinates for each signature in the images.
